@@ -114,4 +114,4 @@ tag_archive:
   type: liquid
   path: /tags/
 
-theme: jekyll-theme-tactile
+theme: jekyll-theme-modernist
