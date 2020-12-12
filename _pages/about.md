@@ -3,10 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
-### EXPERIENCE
-
-# Location Labs by Avast, Emeryville
-# Software Developer in Test II (June 2018 – PRESENT)
+#### Location Labs by Avast, Emeryville
+#### Software Developer in Test II (June 2018 – PRESENT)
 
 * Write and maintain integration tests using Gherkin framework
 * Write python tools/services/scripts to help manual testers
@@ -17,8 +15,8 @@ title: "About Me"
 
 ---------------------------------------------------------------------
 
-# Location Labs by Avast, Emeryville
-# Software Developer in Test I (October 2016 – May 2018)
+#### Location Labs by Avast, Emeryville
+#### Software Developer in Test I (October 2016 – May 2018)
 
 * Write unit tests in Java for Android app
 * Develop and maintain Android UI Espresso tests
@@ -27,8 +25,8 @@ title: "About Me"
 
 ---------------------------------------------------------------------
 
-# Location Labs by Avast, Emeryville
-# Quality Assurance Engineer (April 2012 – September 2016)
+#### Location Labs by Avast, Emeryville
+#### Quality Assurance Engineer (April 2012 – September 2016)
 
 * Test APIs using RESTful API
 * Manually test all the clients (web, iOS, android)
