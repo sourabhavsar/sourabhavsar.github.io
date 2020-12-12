@@ -3,6 +3,36 @@ permalink: /about/
 title: "About"
 ---
 
-Tempor velit sint sunt ipsum tempor enim ad qui ullamco. Est dolore anim ad velit duis dolore minim sunt aliquip amet commodo labore. Ut eu pariatur aute ea aute excepteur laborum. Esse ea esse excepteur minim mollit qui cillum excepteur ex dolore magna. Labore deserunt fugiat incididunt incididunt sint ea. Consequat dolore aute laboris quis proident quis non et est consectetur ex eiusmod sit culpa.
+### EXPERIENCE
+## Location Labs by Avast, Emeryville
 
-Cupidatat ea do et in excepteur in. Ad nostrud ut est esse eu duis ea sunt eiusmod. Aliquip tempor veniam sint elit fugiat. Velit incididunt laboris amet incididunt labore dolore irure velit excepteur commodo deserunt laborum. Consectetur eu fugiat veniam veniam Lorem labore magna eiusmod. Ea occaecat reprehenderit pariatur consectetur minim labore ut aliquip.
+{% capture notice-2 %}
+# Software Developer in Test II (June 2018 – PRESENT)
+
+* Write and maintain integration tests using Gherkin framework
+* Write python tools/services/scripts to help manual testers
+* Create Test Strategies for new features
+* Monitor and file bugs caught by integration tests in Jenkins/Teamcity
+* Coordinate and collaborate with a global SDIT team 
+* Use Amplitude/Loggly to learn user behaviors and shortcomings in tests
+{% endcapture %}
+
+{% capture notice-2 %}
+# Software Developer in Test I (October 2016 – May 2018)
+
+* Write unit tests in Java for Android app
+* Develop and maintain Android UI Espresso tests
+* Maintain continuous integration using Jenkins, Fisheye and Slack
+* Learn about Android architecture like MVP and MVVM
+{% endcapture %}
+
+{% capture notice-2 %}
+# Quality Assurance Engineer (April 2012 – September 2016)
+
+* Test APIs using RESTful API
+* Manually test all the clients (web, iOS, android)
+* Write test strategies clarifying testing effort, features to be tested for releases
+* Lead release qualifiers to communicate detailed report on testing, risks and bugs found before product releases 
+* Write detailed test cases in Testrail
+* Take part in daily Agile Scrums
+{% endcapture %}
